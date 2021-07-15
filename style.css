@@ -1,0 +1,24 @@
+h3{
+    font-size: 20px !important;
+}
+.btn-success:hover{
+background-color:darkgreen;
+}
+canvas{
+    animation-name:wonimation;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+    margin-top:60px;
+}
+@keyframes wonimation{
+    
+    from{box-shadow: 1px 1px 38px navy;}
+    to{box-shadow: 1px 1px 38px aqua;}
+
+}
+h1{
+    font-size:20px !important;
+}
+button{
+    font-size:17px !important;
+}
